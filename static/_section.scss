@@ -1,0 +1,16 @@
+section{
+    grid-area: section;
+    background-color: lightcoral;
+    h1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color:black;
+    }
+    p{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+   
